@@ -6,7 +6,7 @@
   ## Установка программы и подключение к серверу
   - Скачать программу с оффициального репозитория https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip
   - Распаковать загруженный .zip файл в удобное место на вашем компьютере
-  - Открыть распакованную папку и запустить файл nekoray.exe
+  - Открыть распакованную папку и запустить файл nekoray.exe, при запуске выбрать ядро xray
   - Если при запуске выдает ошибку DLL скачать и установить vc_redist https://aka.ms/vs/17/release/vc_redist.x64.exe
 
   - После запуска nekoray.exe, скопировать профиль VLESS который я скинул, нажать Программа и добавить профиль из буфера обмена
@@ -496,4 +496,41 @@
 
 
 
+</details>
+
+<details>
+  <summary>Установка NekoBox на Android</summary>
+  
+   ## Установка программы и подключение к серверу
+   
+  - Скачать программу с оффициального репозитория https://github.com/MatsuriDayo/NekoBoxForAndroid/releases/download/1.3.2/NB4A-1.3.2-arm64-v8a.apk
+    
+  - Скопировать профиль VLESS который я скинул, запустить программу и следовать скринам
+    ![image](https://github.com/user-attachments/assets/d5052197-9cfb-427b-b285-72bdfd64a3dc)
+    
+  - Для подключения нажать на круг со значком снизу экрана
+    ![image](https://github.com/user-attachments/assets/be6fee40-1c07-41eb-8402-7bd168b3b08f)
+    
+</details>
+
+</details>
+
+<details>
+  <summary>Установка FoXray на IOS</summary>
+  
+   ## Установка программы и подключение к серверу
+   
+  - Скачать программу из App Store https://apps.apple.com/us/app/foxray/id6448898396
+    
+  - Скопировать профиль VLESS который я скинул, запустить программу и следовать скринам
+    
+    ![image](https://github.com/user-attachments/assets/d7454fd7-45b6-4e70-b2cd-0f55ad833a05)
+    
+  - Разрешить вставку
+    
+    ![image](https://github.com/user-attachments/assets/9401c89b-14d0-45f6-bd6d-6923453bb05a)
+
+  - И нажать на зачек справа от профиля - он запустится
+
+    
 </details>
