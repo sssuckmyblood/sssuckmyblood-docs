@@ -54,6 +54,7 @@
              {
                         "domain": [
                             "chatgpt.com",
+                            "auth0.openai.com",
                             "discord-attachments-uploads-prd.storage.googleapis.com",
                             "dis.gd",
                             "discord.co",
