@@ -55,6 +55,13 @@
                         "domain": [
                             "chatgpt.com",
                             "auth0.openai.com",
+                            "auth.openai.com",
+                            "twitter.com",
+                            "x.com",
+                            "twimg.com",
+                            "api.x.com",
+                            "abs.twimg.com",
+                            "abs-0.twimg.com",
                             "discord-attachments-uploads-prd.storage.googleapis.com",
                             "dis.gd",
                             "discord.co",
