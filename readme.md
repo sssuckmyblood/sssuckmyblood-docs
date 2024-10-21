@@ -54,26 +54,35 @@
       
      - Ссылка на правила маршрутизации: [Правила маршрутизации](https://raw.githubusercontent.com/sssuckmyblood/sssuckmyblood-vpn-docs/refs/heads/main/routes.json)
            
-     - Если какие-то игры не работают (у меня например Apex Legends не загружался), нужно настроить режим TUN (Если вам сложно и с этого пункта вы НИЧЕГО не понимаете, напишите мне, разберемся). В программе нажимаем Настройки, выбираем строку Настройки TUN-режима.
+     - Если какие-то игры не работают (у меня например Apex Legends не загружался), нужно настроить режим TUN (Если вам сложно и с этого пункта вы НИЧЕГО не понимаете, напишите мне, разберемся). В программе нажимаем Настройки, выбираем строку Настройки TUN-режима. 
+Включите "Режим белого списка". Укажите, какие процессы необходимо проксировать. Например, чтобы проксировать только Discord, добавьте в список Discord.exe и Updater.exe, затем нажмите "OK". Список процессов, которые будет проксироваться, чувствителен к регистру.
+После выполнения этих действий Nekoray будет проксировать только Discord, а все остальные соединения будут проходить без VPN. Это особенно важно для онлайн-игр. Для проксирования браузеров используйте следующие имена процессов, это позволит открывать Дискорд, Ютуб, Инстаграмм, Твиттер, ЧатГПТ в браузере:
+
+Google Chrome: chrome.exe
+
+Yandex Browser: browser.exe
+
+Mozilla Firefox: firefox.exe
+
+Microsoft Edge: msedge.exe
+
+Opera Browser: opera.exe
+
+Safari (Windows): safari.exe
+
+Brave Browser: brave.exe
+
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/1dd1158e-fd24-4451-bd34-31a5fa3ca41d" alt="Описание изображения" style="margin: 20px;"/>
+  </p>
+
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/6de60899-f04d-46b1-9f58-b0ffad3fef4e" alt="Описание изображения" style="margin: 20px;"/>
+  </p>
   
-       <p align="center">
-             <img src="https://github.com/user-attachments/assets/3e5a5714-6517-4c10-bed2-eab12b2435cb" alt="Описание изображения" style="margin: 20px;"/>
-        </p>
-        
-     -  Тут справа в окне нужно указать название процесса (игры). Узнать название процесса можно в Диспетчере задач. Для этого нажимаем на клавиатуре кнопки win+R и вводим в строку taskmgr.exe, нажимаем OK.
-       
-       <p align="center">
-             <img src="https://github.com/user-attachments/assets/6b32236c-706e-4026-813a-d17a52b6f5c4" alt="Описание изображения" style="margin: 20px;"/>
-        </p>
-        
-     - Откроется Диспетчер задач, в нем в первом списке процессов находим игру, в которой возникли проблемы. Я показываю на примере Apex. Я нашел Apex в списке процессов и нажал правой кнопкой мыши по нему. Далее нужно в выпадающем меню нажать Подробно, откроется другая вкладка Диспетчера задач. В ней синей строкой будет выделен процесс игры. В самом первом столбце будет имя процесса которое нам нужно. У меня это r5apex.exe. Его я и должен добавить в настройки TUN-режима в программе NekoRay.
-       
-       <p align="center">
-             <img src="https://github.com/user-attachments/assets/609137ac-8ff6-4f01-b93c-dd9354b059f0" alt="Описание изображения" style="margin: 20px;"/>
-        </p>
-        <p align="center">
-             <img src="https://github.com/user-attachments/assets/0d57a421-b2fe-4fbe-badf-d71de3783d22" alt="Описание изображения" style="margin: 20px;"/>
-        </p>
+
+
+  
 
 </details>
 
