@@ -78,6 +78,8 @@ Safari (Windows): safari.exe
 
 Brave Browser: brave.exe
 
+Spotify: Spotify.exe
+
    <p align="center">
      <img src="https://github.com/user-attachments/assets/1dd1158e-fd24-4451-bd34-31a5fa3ca41d" alt="Описание изображения" style="margin: 20px;"/>
   </p>
@@ -160,6 +162,8 @@ Opera Browser: opera.exe
 Safari (Windows): safari.exe
 
 Brave Browser: brave.exe
+
+Spotify: Spotify.exe
 
    <p align="center">
      <img src="https://github.com/user-attachments/assets/1dd1158e-fd24-4451-bd34-31a5fa3ca41d" alt="Описание изображения" style="margin: 20px;"/>
