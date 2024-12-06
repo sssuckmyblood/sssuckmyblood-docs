@@ -2,6 +2,10 @@
     "rules": [
         {
             "domain": [
+                "jut.su",
+                ".yandexwebcache.org",
+                "globalcheck.net",
+                "copilot.microsoft.com",
                 "open.spotifycdn.com",
                 "spclient.wg.spotify.com",
                 "open.spotify.com",
@@ -77,6 +81,7 @@
                 "ytimg.com",
                 "oaistatic.com",
                 "instagram.com",
+                "www.instagram.com",
                 "cdninstagram.com",
                 "facebook.com",
                 "fbcdn.net",
