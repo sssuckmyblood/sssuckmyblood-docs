@@ -2,6 +2,8 @@
     "rules": [
         {
             "domain_suffix": [
+                "jut.su",
+                ".yandexwebcache.org",
                 "open.spotifycdn.com",
                 "spclient.wg.spotify.com",
                 "open.spotify.com",
