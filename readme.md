@@ -223,7 +223,7 @@ Spotify: Spotify.exe
   
    ## Установка программы и подключение к серверу
    
-  - Скачать программу из App Store https://apps.apple.com/us/app/foxray/id6448898396
+  - Скачать программу из App Store https://apps.apple.com/ru/app/streisand/id6450534064
     
   - Скопировать профиль VLESS который я скинул, запустить программу и следовать скринам
     
