@@ -219,7 +219,7 @@ Spotify: Spotify.exe
 </details>
 
 <details>
-  <summary>Установка FoXray на IOS</summary>
+  <summary>Установка Streisand на IOS</summary>
   
    ## Установка программы и подключение к серверу
    
@@ -227,13 +227,12 @@ Spotify: Spotify.exe
     
   - Скопировать профиль VLESS который я скинул, запустить программу и следовать скринам
     
-    ![image](https://github.com/user-attachments/assets/d7454fd7-45b6-4e70-b2cd-0f55ad833a05)
+   ![image](https://github.com/user-attachments/assets/c862a991-167d-42da-a473-b64f378d2c3c)
     
-  - Разрешить вставку
+  - Выбрать добавленный профиль просто нажав на него
+  - Потом нажать большую кнопку чтобы включить
     
-    ![image](https://github.com/user-attachments/assets/9401c89b-14d0-45f6-bd6d-6923453bb05a)
-
-  - И нажать на зачек справа от профиля - он запустится
+    ![image](https://github.com/user-attachments/assets/82ceb509-230e-4af1-90f5-1865a80cad74)
 
     
 </details>
