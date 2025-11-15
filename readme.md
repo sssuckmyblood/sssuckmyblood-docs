@@ -97,7 +97,7 @@ Spotify: Spotify.exe
   <summary>Установка NekoRay на ПК (Windows) Ядро - xray </summary>
 
   ## Установка программы и подключение к серверу
-  - Скачать программу с оффициального репозитория https://github.com/MatsuriDayo/nekoray/releases/download/3.26/nekoray-3.26-2023-12-09-windows64.zip
+  - Скачать программу с оффициального репозитория https://github.com/MatsuriDayo/nekoray/releases/download/4.0.1/nekoray-4.0.1-2024-12-12-windows64.zip
   - Распаковать загруженный .zip файл в удобное место на вашем компьютере
   - Открыть распакованную папку и запустить файл nekoray.exe, при запуске выбрать ядро xray
   - Если при запуске выдает ошибку DLL скачать и установить vc_redist https://aka.ms/vs/17/release/vc_redist.x64.exe
