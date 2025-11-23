@@ -1,0 +1,37 @@
+WireGuard — Инструкция по подключению
+
+Этот репозиторий содержит инструкцию для пользователей по подключению к VPN через WireGuard на Windows, Android и iOS.
+
+📝 Вам понадобится предоставленный конфигурационный файл:
+balance.conf
+
+📦 1. Скачивание WireGuard
+
+Скачать WireGuard для Windows:
+👉 [СКАЧАТЬ ДЛЯ WINDOWS](https://download.wireguard.com/windows-client/wireguard-installer.exe)
+
+🤖 Android
+
+WireGuard в Google Play:
+👉 [СКАЧАТЬ ДЛЯ ANDROID](https://play.google.com/store/apps/details?id=com.wireguard.android)
+
+🍏 iOS
+
+WireGuard в App Store:
+👉 [СКАЧАТЬ ДЛЯ IOS](https://itunes.apple.com/us/app/wireguard/id1441195209?ls=1&mt=8)
+
+📁 2. Импорт конфигурации
+
+После установки откройте приложение WireGuard и импортируйте предоставленный конфиг:
+С телефона можно отсканировать QR-код:
+<img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/bffc609f-8b35-45c5-8d0a-540ed28244dd" />
+
+
+
+🔍 3. Проверка подключения
+
+Проверьте, что ваш IP изменился:
+
+https://ifconfig.me
+
+https://ipinfo.io
