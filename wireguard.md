@@ -35,10 +35,18 @@ WireGuard в App Store:
  <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/13a28960-441d-4799-8a2c-3c90e571ed30" />
  </p>
 
- 
+ На компе в приложении нужно нажать "Добавить туннель" и выбрать файл с конфигом.
+ <p align="center">
+ <img width="359" height="653" alt="image" src="https://github.com/user-attachments/assets/d09b804f-344b-4676-8798-f1df33418f06" />
+ </p>
+ <p align="center">
+<img width="1062" height="395" alt="image" src="https://github.com/user-attachments/assets/23e3736e-58f8-4754-905a-bd8253d3724e" />
+ </p>
 
-
-
+ Включить VPN нажав на кнопку "Подключить":
+<p align="center">
+<img width="563" height="648" alt="image" src="https://github.com/user-attachments/assets/7b08e985-c831-476c-8d58-d233f4e0161d" />
+ </p>
 
 🔍 3. Проверка подключения
 
