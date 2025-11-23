@@ -23,8 +23,20 @@ WireGuard в App Store:
 📁 2. Импорт конфигурации
 
 После установки откройте приложение WireGuard и импортируйте предоставленный конфиг:
+
 С телефона можно отсканировать QR-код:
-<img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/bffc609f-8b35-45c5-8d0a-540ed28244dd" />
+  <p align="center">
+   <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/bffc609f-8b35-45c5-8d0a-540ed28244dd" />
+  </p>
+  
+Включить/выключить VPN через переключатель на подключении
+
+ <p align="center">
+ <img width="570" height="1280" alt="image" src="https://github.com/user-attachments/assets/13a28960-441d-4799-8a2c-3c90e571ed30" />
+ </p>
+
+ 
+
 
 
 
