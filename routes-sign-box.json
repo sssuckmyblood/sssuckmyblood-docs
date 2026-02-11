@@ -1,7 +1,52 @@
 {
+    "geosite": {
+        "download_url": "https://github.com/SagerNet/sing-geosite/releases/latest/download/geosite.db",
+        "path": "./geosite.db"
+    },
     "rules": [
         {
+            "geosite": [
+                "telegram"
+            ],
+            "outbound": "proxy"
+        },
+        {
             "domain_suffix": [
+                "telegram.org",
+                "t.me",
+                "telegram.me",
+                "telegra.ph",
+                "telesco.pe",
+                "tg.dev",
+                "graph.org",
+                "comments.app",
+                "telega.one",
+                "tdesktop.com",
+                "telegram-cdn.org",
+                "cdn-telegram.org",
+                "sing-box.sagernet.org",
+                "mediafilez.forgecdn.net",
+                "account.riotgames.com",
+                "authenticate.riotgames.com",
+                "riotgames.com",
+                "qdrant.tech",
+                "neo4j.com",
+                "localai.io",
+                "vllm.ai",
+                "cas-bridge.xethub.hf.co",
+                "cohere.com",
+                "glukhov.org",
+                "medium.com",
+                "elevenlabs.io",
+                "platform.openai.com",
+                "gamedownloads-rockstargames-com.akamaized.net",
+                "keycloak.org",
+                "lidarr.audio",
+                "aisregion.econ-krsk.ru",
+                "go2docs.graylog.org",
+                "graylog.org",
+                "docs.graylog.org",
+                "ntc.party",
                 "jut.su",
                 ".yandexwebcache.org",
                 "open.spotifycdn.com",
@@ -1544,7 +1589,12 @@
                 "104.18.0.0/13",
                 "104.24.0.0/14",
                 "172.64.0.0/13",
-                "131.0.72.0/22"
+                "131.0.72.0/22",
+                "149.154.160.0/20",
+                "91.108.4.0/22",
+                "91.108.8.0/21",
+                "91.108.16.0/21",
+                "91.108.56.0/22"
             ],
             "network": [
                 "udp",
