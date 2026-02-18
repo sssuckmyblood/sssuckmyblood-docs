@@ -15,7 +15,7 @@
                 "twitter",
                 "openai",
                 "facebook",
-                "instagram",
+                "instagram"
            
             ],
             "outbound": "proxy"
