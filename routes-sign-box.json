@@ -16,7 +16,7 @@
                 "openai",
                 "facebook",
                 "instagram",
-                "pornhub"
+           
             ],
             "outbound": "proxy"
         },
