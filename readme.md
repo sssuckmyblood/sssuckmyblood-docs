@@ -40,7 +40,7 @@
      <img src="https://github.com/user-attachments/assets/2d630915-a0af-46a4-a13e-7241af2c6254" alt="Описание изображения" style="margin: 20px;"/>
      </p>
 
-   - Настройки DNS должны вот такие:
+   - Настройки DNS должны быть вот такие:
       <p align="center">
      <img src="https://github.com/user-attachments/assets/285addff-4cd7-4443-b191-c220ac0b006a" alt="Описание изображения" style="margin: 20px;"/>
      </p>
